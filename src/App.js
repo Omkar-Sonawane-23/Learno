@@ -1,7 +1,7 @@
 // src/App.js
 import React from 'react';
 import CameraComponent from './components/CameraComponent';
-import QuestionComponent from './components/QuestionComponent';
+import QuestionComponent from './components/QuestionComponent.js';
 import './App.css';
 
 const App = () => {
